@@ -1,7 +1,7 @@
 <?php
-$field_name = $_POST['cf_name'];
-$field_email = $_POST['cf_email'];
-$field_message = $_POST['cf_message'];
+$field_name = $_POST['name'];
+$field_email = $_POST['email'];
+$field_message = $_POST['message'];
 
 $mail_to = 'achtemlauren@gmail.com';
 $subject = 'Message from a site visitor '.$field_name;
@@ -24,7 +24,7 @@ if ($mail_status) { ?>
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to gordon@template-help.com');
+		alert('Message failed. Please, send an email to achtemlauren@gmail.com');
 		window.location = 'contact_page.html';
 	</script>
 <?php
