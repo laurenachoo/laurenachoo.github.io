@@ -1967,9 +1967,6 @@
 				width: auto;
 			}
 			
-	#project1 img {
-		max-width: 100%;
-	}		
 
 /* List */
 
@@ -2952,6 +2949,7 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		max-width: 100%;
 	}
 
 	#project2 {
@@ -2960,6 +2958,7 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		max-width: 100%;
 	}
 
 	#project3 {
@@ -2968,6 +2967,7 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
+		max-width: 100%;
 	}
 
 
