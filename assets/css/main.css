@@ -2944,16 +2944,18 @@
 
 /* Project */
 	#project1 {
+		height:auto;
+        	width:100%;
 		background: url("images/overlay.png"), url("http://i.imgur.com/Cbb6DZC.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
-		max-width: 100%;
 	}
 
 	#project2 {
-		max-width: 100%;
+		height:auto;
+        	width:100%;
 		background: url("images/overlay.png"),url("http://i.imgur.com/Le72Buc.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2962,7 +2964,8 @@
 	}
 
 	#project3 {
-		max-width: 100%;
+		height:auto;
+        	width:100%;
 		background: url("images/overlay.png"), url("http://i.imgur.com/SJHDNMO.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
