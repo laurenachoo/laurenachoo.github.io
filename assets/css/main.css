@@ -1966,6 +1966,10 @@
 				margin: 0 auto;
 				width: auto;
 			}
+			
+	.project1 img {
+		max-width: 100%;
+	}		
 
 /* List */
 
