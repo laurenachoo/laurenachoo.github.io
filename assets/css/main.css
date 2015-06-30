@@ -2953,21 +2953,21 @@
 	}
 
 	#project2 {
+		max-width: 100%;
 		background: url("images/overlay.png"),url("http://i.imgur.com/Le72Buc.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
-		max-width: 100%;
 	}
 
 	#project3 {
+		max-width: 100%;
 		background: url("images/overlay.png"), url("http://i.imgur.com/SJHDNMO.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
-		max-width: 100%;
 	}
 
 
